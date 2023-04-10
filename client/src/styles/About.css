@@ -1,0 +1,43 @@
+.col__3{
+    width: 30.33%;
+    margin: 15px;
+}
+
+.heading{
+    /* background-image: url(http://wp.alithemes.com/html/nest/demo/assets/imgs/theme/wave.png); */
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    padding-bottom: 25px;
+}
+
+.heading h2{
+    text-align: center;
+    color: #253D4E;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 1.2;
+}
+.card-box{
+    padding: 45px;
+    border: 1px solid lightgray;
+}
+.main-container h4{
+    color: #1976D2;
+    padding: 15px 0px;
+}
+.main-container p{
+    text-align: center;
+}
+
+.icons-style{
+    font-size: 80px;
+    color: #42c569;
+    text-align: center;
+}
+
+.about-us{
+  height: 55vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
